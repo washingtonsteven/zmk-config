@@ -16,6 +16,8 @@
     };
 };
 
+&studio_unlock
+
 / {
     keymap {
         compatible = "zmk,keymap";
